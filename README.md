@@ -5,9 +5,9 @@ This is a Tic Tac Toe game built using React. It features a responsive design wh
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SowbarnB/Tic-Tac-Toe/blob/master/TicTacToe%20--picture1.png?raw=true)
+![App Screenshot](https://github.com/SowbarnB/Tic-Tac-Toe/blob/master/Screenshot/TicTacToe%20--picture1.png?raw=true)
 
-![App Screenshot](https://github.com/SowbarnB/Tic-Tac-Toe/blob/master/TicTacToe%20--picture2.png?raw=true)
+![App Screenshot](https://github.com/SowbarnB/Tic-Tac-Toe/blob/master/Screenshot/TicTacToe%20--picture2.png?raw=true)
 
 ## Color Reference
 
